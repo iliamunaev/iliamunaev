@@ -1,4 +1,4 @@
-## Software Engineering Student @ Hive Helsinki (School 42)
+## Software Engineering Student @ [Hive Helsinki (School 42)](https://www.hive.fi/en/curriculum/)
 Focused on Embedded Systems / IoT, bare-metal / low-level programming with ARM Cortex-M based MCU, and ESP32 with integrated Wi-Fi and Bluetooth connectivity. Leveraging Unix/Linux environments for development and deployment of applications.
 
 ### Specializing:
