@@ -4,7 +4,7 @@ Focused on Embedded Systems / IoT, bare-metal / low-level programming with ARM C
 ### Specializing:
 - Embedded Systems / IoT
 - C/C++, Assembly, Python
-- Linux System Programming and Administration
+- Linux System Programming
 
 ### Feel free to contact me:
 - Email: ilyamunaev@gmail.com
