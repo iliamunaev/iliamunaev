@@ -4,7 +4,7 @@ Hive Helsinki (School 42) student with main strengths in the C programming langu
 Interesting in 5G/6G technologies, Embedded Systems, IoT, SoC design, bare-metal and low-level programming with SoC integrated with Wi-Fi and Bluetooth connectivity. Leveraging Unix/Linux environments for development and deployment of applications.
 
 ### Specializing:
-- C/C++, Python
+- C/C++, Rust
 - 5G/6G, Embedded Systems, IoT
 - Linux
 
