@@ -1,11 +1,8 @@
 ## Software Engineering Student @ [Hive Helsinki (School 42)](https://www.hive.fi/en/curriculum/)
-Hive Helsinki (School 42) student with main strengths in the C, C++, and Rust programming languages, Linux, and Git.
-
-Interesting in 5G/6G technologies, Embedded Systems, IoT, SoC design, bare-metal and low-level programming with SoC integrated with Wi-Fi and Bluetooth connectivity. Leveraging Unix/Linux environments for development and deployment of applications.
+Hive Helsinki (School 42) student with main strengths in the Go, C, C++ programming languages, Linux, and Git.
 
 ### Specializing:
-- C/C++, Python
-- 5G/6G, Embedded Systems, IoT
+- Go, C/C++
 - Linux
 
 ### Feel free to contact me:
