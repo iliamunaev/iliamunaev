@@ -1,8 +1,8 @@
-## Software Engineering Student @ [Hive Helsinki (School 42)](https://www.hive.fi/en/curriculum/)
-Hive Helsinki (School 42) student with main strengths in the Go, C, C++ programming languages, Linux, and Git.
+## Software Engineer
+Alma mater: [Hive Helsinki (School 42)](https://www.hive.fi/en/curriculum/)
 
 ### Specializing:
-- Go, C/C++
+- Go, Python, C/C++
 - Linux
 
 ### Feel free to contact me:
