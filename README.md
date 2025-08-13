@@ -1,9 +1,13 @@
-## Software Engineer
+## Software Engineer with 2+ years of software development experience and 7+ years in management
+## 
+Proficient in: 
+- Go, C, Shell, Git
+
+Experienced with: 
+- Python, C++, PostgreSQL, Linux, Docker
+
 Alma mater: [Hive Helsinki (School 42)](https://www.hive.fi/en/curriculum/)
 
-### Specializing:
-- Go, Python, C/C++
-- Linux
 
 ### Feel free to contact me:
 - Email: ilyamunaev@gmail.com
