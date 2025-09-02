@@ -24,6 +24,8 @@ Alma mater:
 ![School 42](https://img.shields.io/badge/School_42-000000?logo=42&logoColor=white&style=for-the-badge)
 ![Hive Helsinki](https://img.shields.io/badge/Hive_Helsinki-FFAE00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjMwMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgd2lkdGg9IjMwMHB4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LXNpemU9IjQwIiBmb250LWZhbWlseT0iQXJpYWwiIHRleHQtYW5jaG9yPSJ_)
 
+About __[School 42](https://42.fr/en/homepage/)__
+
 ### Feel free to contact me:
 - Email: ilyamunaev@gmail.com
 - LinkedIn: [iliamunaev]( https://www.linkedin.com/in/iliamunaev/)
