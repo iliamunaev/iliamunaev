@@ -1,4 +1,4 @@
-## Software Engineer
+## Software Engineer | Exploring Generative AI & Agentic AI
 - 2+ years of software development
 - 7+ years in people leadership
 - co-founder of a digital startup
