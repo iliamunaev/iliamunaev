@@ -1,5 +1,5 @@
 ## Software Engineer
-- 2+ years of software development with C, Python, FastAPI
+- 2+ years of software development with C, Python
 - 7+ years in people leadership
 - co-founder of a digital startup
 
