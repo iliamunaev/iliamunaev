@@ -1,6 +1,5 @@
-## Software Engineer – Generative AI & Agentic AI
-- focus on GenAI and Agentic AI to build autonomous, real-world solutions
-- 2+ years of software development with Python, FastAPI
+## Software Engineer
+- 2+ years of software development with C, Python, FastAPI
 - 7+ years in people leadership
 - co-founder of a digital startup
 
