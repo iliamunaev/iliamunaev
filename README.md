@@ -1,5 +1,5 @@
-## AI Software Engineer
-- 2+ years of software development with C, Python
+## Software Engineer (C/C++, Python) | Systems Programming & AI
+- 2+ years of software development
 - 7+ years in people leadership
 - co-founder of a digital startup
 
