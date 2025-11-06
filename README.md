@@ -27,4 +27,3 @@ Alma mater:
 ### Feel free to contact me:
 - Email: ilyamunaev@gmail.com
 - LinkedIn: [iliamunaev]( https://www.linkedin.com/in/iliamunaev/)
-- Personal site: [Visit my site](https://iliamunaev.github.io/iliam/)
