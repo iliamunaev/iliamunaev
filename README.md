@@ -1,4 +1,4 @@
-## Software Engineer | C/C++, Python | Exploring Embedded Linux (Yocto) & AI
+## Software Engineer | C/C++, Python | Linux
 - 2+ years of software development
 - 7+ years in people leadership
 - co-founder of a digital startup
