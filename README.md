@@ -1,5 +1,5 @@
 # Ilia Munaev
-## Software Engineer | C/C++, Python | Linux
+## Software Engineer
 - 2+ years of software development
 - 7+ years in people leadership
 - co-founder of a digital startup
